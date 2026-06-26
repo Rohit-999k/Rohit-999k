@@ -8,7 +8,7 @@
   <a href="mailto:Officialrohit927@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/rohitsanodiya78"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://leetcode.com/rohit999k" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="https://www.https://tryhackme.com/p/Rohit999k"><img src="https://img.shields.io/badge/TryHackMe-1F242F?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="Rohit999k"/>
+  <a href="https://tryhackme.com/p/Rohit999k"><img src="https://img.shields.io/badge/TryHackMe-1F242F?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="Rohit999k"/>
   </a>
   
  
