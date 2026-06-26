@@ -19,7 +19,10 @@
 ---
 
 🌟 **About Me**
-
+<p>
+Hey there! I'm an ECE student (9.5+ CGPA) with a deep passion for cybersecurity. My foundation in C, Python, Java, DSA, OOP, and basic assembly-level programming gives me a low-level understanding of how systems work — and how they may be break. I live at the intersection of web pentesting, blue teaming, and digital forensics, always chasing the next CTF challenge to learn and grow faster.
+</p>
+ 
 - 🧑‍💻 B.Tech Graduate (2028) @ S. B. Jain Institute of Technology, Management and Research
 - 🕵️ Focusing on: **Ethical Hacking, Web Pentesting, Blue teamming**
 - 👩‍💻 Passionate about learning, taking on new challenges, and building secure systems
