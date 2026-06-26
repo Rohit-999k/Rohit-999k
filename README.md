@@ -68,7 +68,7 @@ Hey there! I'm an ECE student (9.5+ CGPA) with a deep passion for cybersecurity.
 
 ---
 
-📊 **Coding profile and stats**
+📊 **Github statistics**
 
 
 
@@ -84,7 +84,7 @@ Hey there! I'm an ECE student (9.5+ CGPA) with a deep passion for cybersecurity.
 
 
 ---
-**LeetCode**
+**Coding Profile : LeetCode**
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/rohit999k?theme=dark&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/u/rohit999k)
 
