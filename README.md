@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rohit+Sanodiya;Ethical+Hacker+%7C+Pentester+%7C+SOC+L1;Hunt.+Harden.+Repeat." alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Tech Explorer | CTF Player | Bug Hunter</h3>
+<h3 align="center">Tech Explorer | Coder | Bug Hunter</h3>
 
 <p align="center">
   <a href="mailto:Officialrohit927@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
